@@ -1,5 +1,3 @@
-# SuperStoreSaleAnalysisProject
-This project demonstrates my ability to clean data, apply visualization best practices, and communicate insights effectively using Tableau. It is ideal for showcasing skills in data storytelling, dashboard design, and performance analysis in real-world scenarios.
 # 📊 Superstore Sales Dashboard Project (Tableau)
 
 This project is a detailed interactive sales dashboard built using **Tableau**, based on the popular **Superstore dataset**. It provides insights into overall sales performance, category and sub-category analysis, customer segmentation, and time-based trends across the United States.
